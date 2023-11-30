@@ -1,1 +1,8 @@
 # SkyStay-HotelManagementSystem
+SkyStay represents an innovative hotel booking application meticulously crafted to streamline the reservation process across a diverse range of accommodations, including hotels, homes, and vacation rentals. The core objective is to furnish users with a seamless and secure platform for reservation management while ensuring the utmost protection of their personal information. The application not only facilitates the efficient handling of customer reservations but also empowers staff to adeptly manage online booking requests and promptly respond to customer feedback.
+
+To translate this vision into reality, the company has enlisted the expertise of a proficient developer tasked with implementing a robust online system. This documentation places a focal point on the implementation and user interface design of the web-based application, showcasing the distinctive features and functionalities that distinguish SkyStay in the realm of online hotel booking. Leveraging Express JS node as the server, MongoDB as the database, and React as the frontend, the application boasts the capability to adeptly manage numerous requests, create sophisticated user interfaces, and deliver a UI that is both simple and approachable.
+
+Being entirely cloud-based, SkyStay ensures unwavering availability. Notably, it excels in expeditiously transferring data from the frontend to the backend, facilitating swift API response transmission and reception.
+
+For further exploration, the entire project, encompassing the comprehensive codebase and a live demonstration of the website, can be accessed through the following Google Drive link: [https://drive.google.com/drive/folders/1xS1ON7lmFpPcvXtEE0t9cqHu8ciTkjv8]. 
